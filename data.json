@@ -1,0 +1,12 @@
+{
+	"name": "Jeraldine test",
+	"address": "San Miguel, Manila",
+	"skills": [
+		{ "name":"c#", "level": 70 },
+		{ "name":"c++", "level": 60 },
+		{ "name":"css", "level": 80 }
+	],
+	"education": [
+		{ "course":"BS in Information Technology", "school":"San Sebastian College Recoloetos-Manila", "date": "2014-2018"}
+	]
+}
